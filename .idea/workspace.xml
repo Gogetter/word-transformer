@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9def310-001d-466f-9712-896bd9ebcac8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/WordTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/model/FileInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/reader/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cannot_transform.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/filedata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sg/WordTransformerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sg/reader/FileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/cannot_transform.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/empty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/validdata.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ky5UhITWq27WpOfkLLiDRXK6Xt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/eu/projects/JobInterviews/SG/word-transformer/word-transformer/src/main/resources/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/data" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sg.reader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WordTransformerTest.shouldReturnAppropriateErrorWhenUnableToTransform">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="f3ea1d72-426c-4668-a2a6-784541dd8cf6" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordTransformer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sg.WordTransformer" />
+      <module name="word-transformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="word-transformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sg.reader" />
+      <option name="MAIN_CLASS_NAME" value="com.sg.reader.FileReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordTransformerTest.shouldReturnAppropriateErrorWhenUnableToTransform" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="word-transformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sg" />
+      <option name="MAIN_CLASS_NAME" value="com.sg.WordTransformerTest" />
+      <option name="METHOD_NAME" value="shouldReturnAppropriateErrorWhenUnableToTransform" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordTransformerTest.shouldReturnErrorOnAttemptToTransformStartWordToEndWordWhenFileDoesNotExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="word-transformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sg" />
+      <option name="MAIN_CLASS_NAME" value="com.sg.WordTransformerTest" />
+      <option name="METHOD_NAME" value="shouldReturnErrorOnAttemptToTransformStartWordToEndWordWhenFileDoesNotExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordTransformerTest.shouldTransformStartWordToEndWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="word-transformer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sg" />
+      <option name="MAIN_CLASS_NAME" value="com.sg.WordTransformerTest" />
+      <option name="METHOD_NAME" value="shouldTransformStartWordToEndWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordTransformerTest.shouldReturnAppropriateErrorWhenUnableToTransform" />
+        <item itemvalue="JUnit.WordTransformerTest.shouldReturnErrorOnAttemptToTransformStartWordToEndWordWhenFileDoesNotExist" />
+        <item itemvalue="JUnit.WordTransformerTest.shouldTransformStartWordToEndWord" />
+        <item itemvalue="Application.WordTransformer" />
+        <item itemvalue="JUnit.FileReaderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9def310-001d-466f-9712-896bd9ebcac8" name="Changes" comment="" />
+      <created>1674934000129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674934000129</updated>
+      <workItem from="1674934001625" duration="27767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sg/reader/FileReaderTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/WordTransformer.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
